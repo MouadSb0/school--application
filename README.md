@@ -1,4 +1,4 @@
-# Workshop REST API
+# School app REST API
 
 > A Java web application for managing students in a school context, combining a classic Servlet/JSP web layer with a Jakarta REST (Jersey) API and MySQL persistence.
 
